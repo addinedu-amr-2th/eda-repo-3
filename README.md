@@ -3,7 +3,9 @@ EDA 프로젝트 3조 저장소.고시원 매물 가격 분석
 
 ![image](https://user-images.githubusercontent.com/124943935/218690880-3dae388b-cf50-4f21-a0be-c565450242a6.png)
 
-![image](https://user-images.githubusercontent.com/124943935/218691009-468d6ddd-0976-4f13-ba7f-28ccd451bd68.png)
+![image](https://user-images.githubusercontent.com/124943935/218692066-373527df-3638-46fa-8037-0cc1932ea707.png)
+
+
 
 ![image](https://user-images.githubusercontent.com/124943935/218691024-5186c90c-04c0-44e6-a82c-fef8e0dbe92f.png)
 
